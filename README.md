@@ -3,7 +3,7 @@
 Analyzing a dataset of demographic data that was extracted from the 1994 Census database
 
 
-**This data analysis project answer to the following questions**
+**This data analysis project answers to the following questions**
 
 1. How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 2. What is the average age of men?
